@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# JonahBostrom.com
+[Test](JonahBostrom.com)
 - I have many passions: 🎹 Music Production, 🧘‍♂️ Mindfulness Meditation, 🏀 Basketball, 📖 Philosophy of Mind, and of course ~ 🧠 the Sciences (Neuro, Data, Computer)
 - 💬 Ask me about ...
 - 📫 How to reach me: (I'm thinking about shelling out some money for a Calendly) ... but gmail works for now jmbost20@gmail.com
