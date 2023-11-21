@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [My Website!](https://JonahBostrom.com) or JonahBostrom.com
-- I have many passions:
-🎹 Music Production, 🧘‍♂️ Mindfulness Meditation, 🏀 Basketball, 📖 Philosophy of Mind, and of course ~ 🧠 the Sciences (Neuro, Data, Computer)
+- Passions: 🎹 Music Production, 🧘‍♂️ Mindfulness Meditation, 🏀 Basketball, 📖 Philosophy of Mind, and of course ~ 🧠 the Sciences (Neuro, Data, Computer)
 - 💬 Ask me about: how to survive midwestern winter (I barely did!)
-- 📫 How to reach me: (I'm thinking about shelling out some money for a Calendly) ... but gmail works for now jmbost20@gmail.com
+- 📫 How to reach me: jmbost20@gmail.com
 
