@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[My Website!](https://JonahBostrom.com) or JonahBostrom.com
+Heads up! I do most of my work these days on a private repo through Bitbucket :( 
+More information about me at [My Website!](https://JonahBostrom.com) or try [JonahBostrom.com](https://JonahBostrom.com)
 - Passions: 🎹 Music Production, 🧘‍♂️ Mindfulness Meditation, 🏀 Basketball, 📖 Philosophy of Mind, and of course ~ 🧠 the Sciences (Neuro, Data, Computer)
 - 💬 Ask me about: how to survive midwestern winter (I barely did!)
 - 📫 How to reach me: jmbost20@gmail.com
